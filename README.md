@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @priyanshunitin7
+- A B.tech student currently persuing my bachelors in electronics and communication engineering from Haldia Institute of Technology.
 - 👀 I’m interested in learnig ML and many other skills.
 - 🌱 I’m currently learning mern stack development.
 - 💞️ I’m looking to collaborate on front end related projects.
