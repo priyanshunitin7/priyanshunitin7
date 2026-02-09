@@ -1,6 +1,31 @@
-# 💫 About Me:
-👋 Hi, I’m Nitin Raj<br>💻 I work with Python, C++, React, FastAPI<br>🤖 Interested in Machine Learning & AI projects<br>📊 Built churn prediction models & data-driven apps<br>🧠 Currently improving DSA & problem-solving skills<br>🚀 Love building end-to-end real-world projects<br>🤝 Open to collaboration & open-source contributions
+<h1 align="center">Hi 👋, I'm Nitin Raj</h1>
+<h3 align="center">Engineering Student | ML & Full-Stack Developer 🌟</h3>
 
+<br>
+
+<p align="right"> 
+  <h3>Profile Views :-</h3> 
+  <img src="https://komarev.com/ghpvc/?username=priyanshunitin7&label=Profile%20views&color=0e75b6&style=flat"
+    alt="priyanshunitin7" /> 
+</p>
+
+<br>
+
+<p>
+  <img align="right" width="380"
+    src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif"
+    alt="coding animation" />
+</p>
+
+- 🌱 Currently strengthening **Data Structures & Algorithms** and **System Design**
+- 🤖 Actively building **Machine Learning & AI-powered applications**
+- 🚀 Experience in **end-to-end projects** (ML model → API → Frontend)
+- 💻 Tech focus: **Python, C++, React, FastAPI**
+- 📊 Built **customer churn prediction** and data-driven dashboards
+- 📫 Reach me at **nitinece093@gmail.com**
+- ⚡ Fun fact: I enjoy solving tough problems and building real-world systems
+
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prianshunitin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nitinece093@gmail.com) 
@@ -21,4 +46,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=priyanshunitin7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+⭐ From [priyanshunitin7](https://github.com/priyanshunitin7)
